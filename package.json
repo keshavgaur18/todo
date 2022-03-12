@@ -1,7 +1,7 @@
 {
-  "homepage": "http://keshavgaur18.github.io",
-  "name": "managing-a-component-tree-practice-completed",
-  "version": "1.0.0",
+  "homepage": "http://keshavgaur18.github.io/todo",
+  "name": "todo-app",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
